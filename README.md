@@ -1,8 +1,5 @@
 # 📊 HR Analytics Dashboard
 
-<p align="center">
-  <img src="Images/powerbi_dashboard.png" alt="HR Analytics Dashboard" width="900">
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge&logo=postgresql">
@@ -46,36 +43,6 @@ This dashboard helps HR teams:
 | Power BI | Interactive Dashboard |
 | DAX | KPI Calculations |
 | CSV Dataset | Employee Data |
-
----
-
-# 📂 Project Structure
-
-```
-HR-Analytics-Dashboard/
-│
-├── Dataset/
-│   └── HR_Employee_Data.csv
-│
-├── SQL/
-│   ├── SQL_Queries.sql
-│   └── SQL_Output_Screenshots/
-│
-├── Excel/
-│   ├── HR_Analytics_Dashboard.xlsx
-│   └── Dashboard_Screenshot.png
-│
-├── PowerBI/
-│   ├── HR_Analytics.pbix
-│   └── Dashboard_Screenshot.png
-│
-├── Images/
-│   ├── powerbi_dashboard.png
-│   ├── excel_dashboard.png
-│   └── sql_analysis.png
-│
-└── README.md
-```
 
 ---
 
