@@ -134,7 +134,7 @@ Some key insights generated from the dashboard include:
 ## 🔹 Power BI Dashboard
 
 <p align="center">
-<img src="Images/powerbi_dashboard.png" width="900">
+<img src="PowerBi_Dashboard_Snapshot.png" width="900">
 </p>
 
 ---
@@ -142,15 +142,7 @@ Some key insights generated from the dashboard include:
 ## 🔹 Excel Dashboard
 
 <p align="center">
-<img src="Images/excel_dashboard.png" width="900">
-</p>
-
----
-
-## 🔹 SQL Analysis
-
-<p align="center">
-<img src="Images/sql_analysis.png" width="900">
+<img src="Excel_Dashboard_Snapshot.png" width="900">
 </p>
 
 ---
